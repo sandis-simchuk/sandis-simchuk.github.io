@@ -1,3 +1,4 @@
 title: Hi, I'm Sandis
 description: I'm a recent graduate from the University of Idaho, with bachelors degrees in environmental science and geography.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
